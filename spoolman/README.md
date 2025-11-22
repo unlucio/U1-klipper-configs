@@ -70,6 +70,8 @@ find the spoolman pannel and verify it is active
 ![access flluidd interface](assets/spoolman.png)
 !!! PAY ATTENTION !!!: I reorganized my fuidd's pannel as it please me, so your spoolman panel might not be in the same position as mine. Look for it.
 
+### Reboot your printer
+
 ## Done:
 
 Congrats, you can now asign spoolman's spools to your tools
