@@ -13,7 +13,7 @@ You can choose 2 differtn patsh:
 
 ### Unlocking the U1's advanced mode
 
-<video src="assets/advanced_mode.mp4" controls></video>
+![Activate Advanced Mode](assets/advanced_mode.gif)
 
 ### Your printer's IP:
 
