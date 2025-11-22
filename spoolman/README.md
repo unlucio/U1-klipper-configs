@@ -32,6 +32,21 @@ Stick your printer's ip in a browser
 
 ![access flluidd interface](assets/configs.png)
 
+## Conect to Spoolman:
+
+### Find your `moonraker.conf`
+
+![access flluidd interface](assets/moonraker.png)
+
+and append the spoolman connection to the end of the file
+
+```
+[spoolman]
+server: http://<spoolman ip>:<port>
+```
+
+![access flluidd interface](assets/moonraker2.png)
+
 ### Create the `custom` directory
 
 ![access flluidd interface](assets/create_custom_directory1.png)
@@ -73,3 +88,7 @@ find the spoolman pannel and verify it is active
 
 Congrats, you can now asign spoolman's spools to your tools
 ![access flluidd interface](assets/spoolman_select.png)
+
+```
+
+```
