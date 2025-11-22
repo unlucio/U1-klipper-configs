@@ -18,3 +18,59 @@ You can choose 2 differtn patsh:
 ### Your printer's IP:
 
 ![printer's wifi ip](assets/ip.jpeg)
+
+### Download the [multi tool config file for spolman](spoolman_multi_tool.cfg)
+
+## What to do:
+
+### Access your U1's [Fluidd](https://docs.fluidd.xyz/) interface
+
+Stick your printer's ip in a browser
+![access flluidd interface](assets/fluidd_access.png)
+
+### Navigate to the config file page
+
+![access flluidd interface](assets/configs.png)
+
+### Access the `persistent` directory
+
+![access flluidd interface](assets/persistent_dir1.png)
+![access flluidd interface](assets/persistent_dir2.png)
+
+### Create the `custom` directory under `persistent`
+
+![access flluidd interface](assets/create_custom_directory1.png)
+![access flluidd interface](assets/create_custom_directory2.png)
+
+### Upload the `spoolman_multi_tool.cfg` file
+
+![access flluidd interface](assets/upload_multitoo_conf1.png)
+![access flluidd interface](assets/upload_multitoo_conf2.png)
+
+### Create variable persistence file
+
+While still in the `persistent/custom` directory, create a file called `variables.cfg`
+![access flluidd interface](assets/variables1.png)
+![access flluidd interface](assets/variables12.png)
+![access flluidd interface](assets/variables13.png)
+
+### Inlcude the new file in your `printer.cfg`
+
+Copy the inlcude line form [multi tool config file for spolman](additions_to_printer.cfg)
+![access flluidd interface](assets/include1.png)
+![access flluidd interface](assets/include2.png)
+
+### Activate Spoolman Pannel
+
+From Fluidd's main page, open the `3 dots menu`, and select `Adjust dashboard layout`
+![access flluidd interface](assets/3dots.png)
+![access flluidd interface](assets/layout.png)
+
+find the spoolman pannel and verify it is active
+![access flluidd interface](assets/spoolman.png)
+!!! PAY ATTENTION !!!: I reorganized my fuidd's pannel as it please me, so your spoolman panel might not be in the same position as mine. Look for it.
+
+## Done:
+
+Congrats, you can now asign spoolman's spools to your tools
+![access flluidd interface](assets/spoolman_select.png)
