@@ -50,7 +50,7 @@ and append the spoolman connection to the end of the file
 server: http://<spoolman ip>:<port>
 ```
 
-![access flluidd interface](assets/moonraker2<<<>>>.png)
+![access flluidd interface](assets/moonraker2.png)
 
 ### Create the `custom` directory
 
