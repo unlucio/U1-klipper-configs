@@ -1,12 +1,10 @@
 # U1 klipper configs
 
-This is a general repo with configs to expand the Snapmaker U1's capabilities
+This repo is no more. It's deprecated.
 
-## Disclaimer:
+I'm amazed by how much this repo lived on.
+If you care about keeping your stock FW and having your printer work your way
+You might be interested in the offspring of this repo:
 
-I'm not a Snapmaker's developer nor your tech support.
-I just have a U1 and I'm happy to share what I did to mine, YMMV but always: [RTFM](https://www.klipper3d.org/) and follow the links for fuher documentation and informations.
+https://github.com/Bespok3d/Bespok3d-desktop
 
-# Things I did
-
-- [Spoolman](spoolman/README.md) configuration for U1 multitool
